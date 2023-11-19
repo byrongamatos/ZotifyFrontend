@@ -32,7 +32,7 @@ services:
       - /YourDownloadFolder:/media
 
   zotify_frontend:
-    image: xasiklas/zotipyfrontend:latest
+    image: xasiklas/zotifyfrontend:latest
     container_name: zotifyfrontend
     stdin_open: true
     tty: true

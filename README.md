@@ -2,6 +2,9 @@
 
 ### A web interface to make life easier when using [zotify](https://github.com/zotify-dev/zotify/).
 
+<p align="center">
+  <img src="https://i.imgur.com/nDdq8Bq.png" width="50%" alt="Zotify Frontend">
+</p>
 
 ### Features
   - Download artist discographies
